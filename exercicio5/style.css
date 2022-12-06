@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f5f8e3;
+    position: relative;
+  min-height: 50px;
+}
+head{
+    margin: 0;
+    padding: 0;
+}
+
+nav
+{
+    font-size: 35px;
+    background-color: #2c8dfc;
+    position: static;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav td{
+    padding-right: 30px;
+}
+
+nav a
+{
+    text-decoration: none;
+    color: #000000;
+}
+
+footer
+{
+    position: absolute;
+    bottom: 0;
+    max-width: 100%;
+    margin: 10px;
+}
+
+#conteudo
+{
+    max-width: 100%;
+    margin: 15px;
+    padding-bottom: 60px;
+    margin-left: 22%;
+
+}
+
+#carro
+{
+    display: inline-block;
+    border-color: #000000;
+    margin-right: 35px;
+}
+
+#carro img
+{
+    width: 500px;
+    height: 300px;
+    position: relative;
+    border-radius: 5px;
+}
+
+
+
+
